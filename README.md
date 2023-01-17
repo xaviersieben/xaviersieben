@@ -12,6 +12,8 @@
 In 2022 I discovered that my passion is programming and that is why
 I decided to become a Full Stack Developer, I can easily adapt to learning new
 technologies, I want to share my skills and knowledge with all of you.  
+
+
   
 
 <br/>  
@@ -39,6 +41,11 @@ technologies, I want to share my skills and knowledge with all of you.
 </div>  
 
 <br/>  
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaviersieben)](https://github.com/xaviersieben/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaviersieben)](https://github.com/xaviersieben/github-readme-stats)
 
 
 
