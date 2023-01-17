@@ -42,17 +42,13 @@ technologies, I want to share my skills and knowledge with all of you.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xaviersieben&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<a href="https://github.com/xaviersieben">
+  <img height="140em" src="https://camo.githubusercontent.com/3d06fec58ba5cd079ef8944574916f9eae5a616a12c1e98a9def4589602ccae3/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7061626c6f63616e61267468656d653d7261646963616c266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xaviersieben&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviersieben&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
 
   
 
